@@ -1,1 +1,1 @@
-# stockmanagementsystem
+# stockmanagementsystem.github.io
